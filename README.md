@@ -3,7 +3,6 @@
 - ✌️ I'm an AI and Full Stack Engineer, based in Sydney, Australia
 - 🏗️ I like building AI-powered full-stack applications
 - 📨 Contact me via email at `sam.s.nichols2@gmail.com`
-- 👍 Learn more about me via [LinkedIn](https://www.linkedin.com/in/sam-nichols-908967229/) and [GitHub](https://github.com/Snichoo)
 
 ## Technical Skills
 
