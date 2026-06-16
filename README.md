@@ -87,24 +87,24 @@
 
 <table border="0">
   <tr>
-    <td align="center"><b>UseArticle</b><br/>Affiliate sites on autopilot — publishes fresh, SEO-optimized affiliate articles every day</td>
-    <td align="center"><b>Mint</b><br/>AI QA for pull requests — runs your app, captures proof it works, and posts results to GitHub</td>
+    <td align="center"><b>UseArticle</b><br/>Affiliate sites on autopilot. Publishes fresh, SEO-optimized affiliate articles every day</td>
+    <td align="center"><b>Mint</b><br/>AI QA for pull requests. Runs your app, captures proof it works, and posts results to GitHub</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/usearticle.png" width="100%" alt="UseArticle" /></td>
     <td align="center"><img src="assets/mint.png" width="100%" alt="Mint" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Outrank</b><br/>Grow organic traffic on auto-pilot — AI blog posts, backlinks, and SEO tools to rank on Google</td>
-    <td align="center"><b>PostSyncer</b><br/>Create once, share everywhere — social media scheduling for 11+ platforms</td>
+    <td align="center"><b>Outrank</b><br/>Grow organic traffic on auto-pilot. AI blog posts, backlinks, and SEO tools to rank on Google</td>
+    <td align="center"><b>PostSyncer</b><br/>Create once, share everywhere. Social media scheduling for 11+ platforms</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/outrank.png" width="100%" alt="Outrank" /></td>
     <td align="center"><img src="assets/postsyncer.png" width="100%" alt="PostSyncer" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Notewave AI</b><br/>Memorize everything with the Feynman technique — notes, mind maps, quizzes, and flashcards</td>
-    <td align="center"><b>Validate AI</b><br/>Validate startup ideas in minutes — design doc, competitor analysis, and a landing page</td>
+    <td align="center"><b>Notewave AI</b><br/>Memorize everything with the Feynman technique. Notes, mind maps, quizzes, and flashcards</td>
+    <td align="center"><b>Validate AI</b><br/>Validate startup ideas in minutes. Design doc, competitor analysis, and a landing page</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/notewave-ai.png" width="100%" alt="Notewave AI" /></td>
