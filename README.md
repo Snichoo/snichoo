@@ -93,8 +93,8 @@
     <td align="center"><b>Mint</b><br/>AI QA for pull requests. Runs your app, captures proof it works, and posts results to GitHub</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/usearticle.png" width="100%" alt="UseArticle" /></td>
-    <td align="center"><img src="assets/mint.png" width="100%" alt="Mint" /></td>
+    <td align="center"><img src="/usearticle.png" width="100%" alt="UseArticle" /></td>
+    <td align="center"><img src="/mint.png" width="100%" alt="Mint" /></td>
   </tr>
   <tr>
     <td align="center"><b>Outrank</b><br/>Grow organic traffic on auto-pilot. AI blog posts, backlinks, and SEO tools to rank on Google</td>
