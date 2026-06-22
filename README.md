@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Sam
 
-- ✌️ I'm an AI and Full Stack Engineer, based in Sydney, Australia
-- 🏗️ I like building AI-powered full-stack applications
-- 📨 Contact me via email at `sam.s.nichols2@gmail.com`
+* ✌️ AI & Full-Stack Engineer based in Brisbane, Australia
+* 🏗️ Passionate about building AI-powered products and full-stack applications
+* 🔒 Most of my projects are private.
+* 📱 Published iOS applications: https://apps.apple.com/us/developer/sam-nichols/id1791947883
+* 📂 More projects and experiments can be found further down this page
+* 📨 Contact: `sam.s.nichols2@gmail.com`
+
 
 ## Technical Skills
 
