@@ -101,15 +101,15 @@
     <td align="center"><b>PostSyncer</b><br/>Create once, share everywhere. Social media scheduling for 11+ platforms</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/outrank.png" width="100%" alt="Outrank" /></td>
-    <td align="center"><img src="assets/postsyncer.png" width="100%" alt="PostSyncer" /></td>
+    <td align="center"><img src="./outrank.png" width="100%" alt="Outrank" /></td>
+    <td align="center"><img src="./postsyncer.png" width="100%" alt="PostSyncer" /></td>
   </tr>
   <tr>
     <td align="center"><b>Notewave AI</b><br/>Memorize everything with the Feynman technique. Notes, mind maps, quizzes, and flashcards</td>
     <td align="center"><b>Validate AI</b><br/>Validate startup ideas in minutes. Design doc, competitor analysis, and a landing page</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/notewave-ai.png" width="100%" alt="Notewave AI" /></td>
-    <td align="center"><img src="assets/validate-ai.png" width="100%" alt="Validate AI" /></td>
+    <td align="center"><img src="./notewave-ai.png" width="100%" alt="Notewave AI" /></td>
+    <td align="center"><img src="./validate-ai.png" width="100%" alt="Validate AI" /></td>
   </tr>
 </table>
